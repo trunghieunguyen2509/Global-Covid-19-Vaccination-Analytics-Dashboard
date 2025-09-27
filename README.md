@@ -101,8 +101,8 @@ A dedicated table `_Measures` was created to store all KPIs. Key measures includ
 ---
 
 ## 📸 Screenshots  
-
-
+![Covid](Images/Covid.png)
+![Vaccine](Images/Vaccine.png)
 ---
 
 ## 📌 How to Use  
