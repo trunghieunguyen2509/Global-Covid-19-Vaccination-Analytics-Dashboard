@@ -1,4 +1,4 @@
-<img width="1466" height="782" alt="image" src="https://github.com/user-attachments/assets/2a386243-962d-4014-853a-34c13bdddee4" /># 🌍 Power BI Global Covid-19 & Vaccine Dashboard  
+# 🌍 Power BI Global Covid-19 & Vaccine Dashboard  
 
 ## 📖 Project Overview  
 This project demonstrates how to build an **end-to-end Power BI analytics solution** using publicly available Covid-19 and vaccination data. The project covers:  
